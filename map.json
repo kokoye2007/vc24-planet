@@ -320,7 +320,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Future of work"
+         "value":"Tech talk"
         }, 
         {
          "name":"script",
