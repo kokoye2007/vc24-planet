@@ -1,10 +1,10 @@
 # WorkAdventure Map Starter Kit
 
-![map](./map.png)
-
 This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
 
 To understand how to use this starter kit, follow the tutorial at [https://workadventu.re/map-building](https://workadventu.re/map-building).
+
+![map](./map.png)
 
 ## Installation
 
@@ -15,9 +15,11 @@ npm install
 npm run start
 ```
 
+The project will run at http://localhost:8080/
+
 ## Licenses
 
-This project contains multiple licenses as follows:
+This project contains multiple licenses:
 
 * [Code license](./LICENSE.code) *(all files except those for other licenses)*
 * [Map license](./LICENSE.map) *(`map.json` and the map visual as well)*
