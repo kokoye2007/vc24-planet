@@ -1,5 +1,6 @@
 /node_modules/
-yarn.locktmj.org.bck
+yarn.lock
 tmj.orig
+**.bck
 src/assets/BigPlane_t.png
 src/assets/BigPlanet.png
