@@ -551,6 +551,7 @@
          "y":0
         }, 
         {
+         "class":"area",
          "draworder":"topdown",
          "id":4,
          "name":"floorLayer",
@@ -566,7 +567,7 @@
                          "value":"\/@\/varcamp\/vc24\/terminal#from-neptune"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":118.666666666667,
                  "x":740.666666666667,
