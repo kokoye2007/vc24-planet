@@ -168,7 +168,7 @@
                 {
                  "name":"jitsiRoomAdminTag",
                  "type":"string",
-                 "value":"speaker,vc24mod,admin"
+                 "value":"speaker"
                 }, 
                 {
                  "name":"jitsiTrigger",
